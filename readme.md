@@ -1,7 +1,8 @@
 #  Residual-Guided Multiscale Fusion Network for Bit-Depth Enhancement
 Copyright(c) 2021 Jing Liu
 ```
-
+If you use this code, please cite the following publication:
+J. Liu, X. Wen, W. Nie, Y. Su, P. Jing，and X.Yang, "Residual-Guided Multiscale Fusion Network for Bit-Depth Enhancement", to appear in IEEE Transactions on Circuits and Systems for Video Technology
 ```
 ## Contents
 
