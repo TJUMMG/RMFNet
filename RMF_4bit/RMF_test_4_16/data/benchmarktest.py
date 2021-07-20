@@ -12,8 +12,8 @@ class BenchmarkTest(ImageData.ImageData):
         list_input = []
 
         # UST-HK
-        idx_begin = 0
-        idx_end = 40
+        idx_begin = 1
+        idx_end = 2
 
 
 
