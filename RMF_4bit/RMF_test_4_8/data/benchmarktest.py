@@ -11,8 +11,8 @@ class BenchmarkTest(ImageData.ImageData):
         list_input = []
 
         # Kodak
-        idx_begin = 0
-        idx_end = 24
+        idx_begin = 8
+        idx_end = 9
 
         # Kodak
         for i in range(idx_begin + 1, idx_end + 1):
