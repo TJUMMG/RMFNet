@@ -1,3 +1,5 @@
+# @Author: Xin Wen
+
 import torch
 import torch.nn as nn
 from model import common
